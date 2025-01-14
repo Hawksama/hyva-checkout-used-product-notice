@@ -5,7 +5,7 @@
 > **Important**
 > - If you only need the **product page** disclaimer, install **Hawksama_HyvaUsedProductNotice** without this module.
 > - If you want **both** product page notices **and** a checkout confirmation step, install **this** module:
-    >   ```bash
+>   ```bash
 >   composer require hawksama/hyva-checkout-used-product-notice
 >   ```
 > - You **must** have **Hyvä Checkout** installed for this module to function correctly. Otherwise, you will encounter errors.
