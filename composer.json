@@ -1,0 +1,19 @@
+{
+  "name": "hawksama/hyva-checkout-used-product-notice",
+  "description": "Extends Hawksama_HyvaCheckoutUsedProductNotice to support Hyvä Checkout consent.",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*",
+    "hyva-themes/magento2-hyva-checkout": "^1.1",
+    "hawksama/magento2-admin-menu": "^1.0",
+    "hawksama/hyva-used-product-notice": "^1.0"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Hawksama\\HyvaCheckoutUsedProductNotice\\": ""
+    }
+  }
+}
