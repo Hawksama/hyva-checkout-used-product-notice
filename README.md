@@ -14,7 +14,7 @@
 
 ## Overview
 
-1. **Extends the Used Product Notice**
+1. **Extends the Used Product Notification**
     - By default, Hawksama_HyvaUsedProductNotice shows a notice on the product detail page for items flagged as “used.”
     - This module adds **checkout-level** functionality that **requires** customers to confirm they understand these items have no warranty or return policy before placing an order.
 
